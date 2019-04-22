@@ -10,8 +10,5 @@ De acordo com a regra de lucratividade do cliente 80/20, 20% dos clientes estão
 
 É possível prever o cliente que vai deixar a empresa?
 
-https://github.com/marcoayamada/telecom_customer_churn/blob/master/predict_churn.ipynb
+https://nbviewer.jupyter.org/github/marcoayamada/telecom_customer_churn/blob/master/predict_churn.ipynb - [[Github](https://github.com/marcoayamada/telecom_customer_churn/blob/master/predict_churn.ipynb)]
 
-### Resultados
-
-https://github.com/marcoayamada/telecom_customer_churn/blob/master/predictions.csv
